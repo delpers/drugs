@@ -72,6 +72,10 @@ function App () {
       <p>€</p>
       <p>$</p>
       <p>OTHERS ...</p>
+
+      <p>Hosts vercel.com</p>
+      <p>contact boschat@protonmail.com</p>
+
     </div>
   );
 }
